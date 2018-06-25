@@ -1,0 +1,1 @@
+# QtProject_DMcode-QRcode_Recognize
